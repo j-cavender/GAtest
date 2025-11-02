@@ -1,3 +1,6 @@
+"""
+Unit tests for the simple calculator module.
+"""
 import unittest
 from calculator import Calculator
 
